@@ -9,7 +9,6 @@ public class StringPlay {
         } else {
             System.out.println("\"" + userInput + "\"" + " is a number.");
         }
-
     }
 
     public static void flipCase (String userInput){
